@@ -11,8 +11,8 @@ Here are the steps to implement this animated background on your website
     >
 3. Copy and paste following files into the same directory as your html page
 
-    > <a href = "https://github.com/Tomislav-Zigo/Web-dev-magic/blob/main/web-background/web_background_script.js">web_background_script.js</a> </br>
-    > <a href = "https://github.com/Tomislav-Zigo/Web-dev-magic/blob/main/web-background/web_background_styles.css">web_background_styles.css</a><br>
+    > <a href = "https://github.com/Tomislav-Zigo/Web-dev-magic/blob/main/bouncy_balls/bouncy_balls_script.js">bouncy_balls_script.js</a> </br>
+    > <a href = "https://github.com/Tomislav-Zigo/Web-dev-magic/blob/main/bouncy_balls/bouncy_balls_styles.css">bouncy_balls_styles.css</a><br>
 
 4. Copy and paste this at the end of the body tag in your HTML file and set the width and height variables
 

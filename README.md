@@ -8,3 +8,4 @@ Animated web background using HTML canvas and JS <br>
 
 Animated bouncing circles using HTML canvas and JS <br>
 ![bouncy_circles_gif](https://media4.giphy.com/media/V1z8aG86PV7JLBb5yR/giphy.gif)
+<a href = "https://github.com/Tomislav-Zigo/Web-dev-magic/tree/main/bouncy_balls"> Learn how to implement me!</a> 
